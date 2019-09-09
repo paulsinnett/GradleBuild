@@ -1,0 +1,1 @@
+java -classpath "c:\Program Files\Unity\Hub\Editor\2018.2.20f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\gradle\lib\gradle-launcher-4.2.1.jar" org.gradle.launcher.GradleMain -p "Gradle Build" "-Dorg.gradle.jvmargs=-Xmx4096m" "assembleRelease"
